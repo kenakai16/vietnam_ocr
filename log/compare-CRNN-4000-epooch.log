@@ -1,0 +1,643 @@
+filename:val_set/img_hoangdieu_1_AmaticSC-Bold_bg_0.png
+pred  :Tôi muốn tắt nắng đ
+target:Tôi muốn tắt nắng đi
+filename:val_set/img_hoangdieu_2_Sriracha-Regular_bg_3.png
+pred  :Cho màu đừng nhạt mất
+target:Cho màu đừng nhạt mất;
+filename:val_set/img_hoangdieu_4_Charmonman-Regular_bg_0.png
+pred  :Cho hương đừng bay đ
+target:Cho hương đừng bay đi.
+filename:val_set/img_hoangdieu_5_Charmonman-Bold_bg_0.png
+pred  :Của ong bướm này đây tuần trăng mật
+target:Của ong bướm này đây tuần trăng mật;
+filename:val_set/img_hoangdieu_9_PatrickHand-Regular_bg_0.png
+pred  :Và này đây ánh sáng chớp hàng mi
+target:Và này đây ánh sáng chớp hàng mi;
+filename:val_set/img_hoangdieu_10_DancingScript-VariableFont_wght_bg_1.png
+pred  :Mỗi sáng sớm thần vui hằng gõ cửa
+target:Mỗi sáng sớm thần vui hằng gõ cửa;
+filename:val_set/img_hoangdieu_11_Charmonman-Regular_bg_3.png
+pred  :Tháng giêng ngon như một cặp môi gần
+target:Tháng giêng ngon như một cặp môi gần;
+filename:val_set/img_hoangdieu_12_AmaticSC-Regular_bg_3.png
+pred  :Tôi sung sương Nhưng vội vàng một nửa:
+target:Tôi sung sướng. Nhưng vội vàng một nửa:
+filename:val_set/img_hoangdieu_16_Charmonman-Bold_bg_2.png
+pred  :Mà xuân hết nghĩa là tôi cũng mất
+target:Mà xuân hết nghĩa là tôi cũng mất.
+filename:val_set/img_hoangdieu_24_Sriracha-Regular_bg_2.png
+pred  :Khắp sông núi vẫn than thầm tiễn biệt.
+target:Khắp sông núi vẫn than thầm tiễn biệt
+filename:val_set/img_hoangdieu_28_DancingScript-VariableFont_wght_bg_3.png
+pred  :Phải chăng sợ độ phai tàn sắp sửa!
+target:Phải chăng sợ độ phai tàn sắp sửa?
+filename:val_set/img_hoangdieu_29_Sriracha-Regular_bg_4.png
+pred  :Chẳng bao giờ ôi! Chẳng bao giờ nữa..
+target:Chẳng bao giờ ôi! Chẳng bao giờ nữa
+filename:val_set/img_hoangdieu_30_Charmonman-Bold_bg_4.png
+pred  :Mau đi thôi Mùa chưa ngả chiều hôm
+target:Mau đi thôi! Mùa chưa ngả chiều hôm
+filename:val_set/img_hoangdieu_32_PatrickHand-Regular_bg_1.png
+pred  :Cả sự sống mới bắt đầu mơn mởn
+target:Cả sự sống mới bắt đầu mơn mởn;
+filename:val_set/img_hoangdieu_39_PatrickHand-Regular_bg_0.png
+pred  :- Hỡi xuân hồng ta muốn cắn vào ngươi
+target:– Hỡi xuân hồng ta muốn cắn vào ngươi!
+filename:val_set/img_hoangdieu_42_Sriracha-Regular_bg_3.png
+pred  :Rặng liều đìu hiu đứng chịu tang
+target:Rặng liễu đìu hiu đứng chịu tang
+filename:val_set/img_hoangdieu_44_DancingScript-VariableFont_wght_bg_1.png
+pred  :Đây mùa thu tới - mùa thu tới
+target:Đây mùa thu tới – mùa thu tới
+filename:val_set/img_hoangdieu_47_DancingScript-VariableFont_wght_bg_2.png
+pred  :Trong vườn sắc đỏ rũa màu xanh
+target:Trong vườn sắc đỏ rũa màu xanh;
+filename:val_set/img_hoangdieu_48_DancingScript-VariableFont_wght_bg_0.png
+pred  :Những luồng run rẩy rung rinh lá.
+target:Những luồng run rẩy rung rinh lá
+filename:val_set/img_hoangdieu_49_AmaticSC-Bold_bg_3.png
+pred  :Đôi nhánh khô gầy xương mỏng manh
+target:Đôi nhánh khô gầy xương mỏng manh.
+filename:val_set/img_hoangdieu_50_DancingScript-VariableFont_wght_bg_0.png
+pred  :Thỉnh thoảng nàng trăng tự ngẩn ngơ..
+target:Thỉnh thoảng nàng trăng tự ngẩn ngơ
+filename:val_set/img_hoangdieu_51_Charmonman-Bold_bg_4.png
+pred  :Non xa khởi sự nhạt sương mờ..
+target:Non xa khởi sự nhạt sương mờ
+filename:val_set/img_hoangdieu_52_DancingScript-VariableFont_wght_bg_3.png
+pred  :Đã nghe rét mướt luồn trong gió..
+target:Đã nghe rét mướt luồn trong gió
+filename:val_set/img_hoangdieu_53_Charmonman-Bold_bg_0.png
+pred  :Đã vắng người sang những chuyến đò .
+target:Đã vắng người sang những chuyến đò
+filename:val_set/img_hoangdieu_56_DancingScript-VariableFont_wght_bg_2.png
+pred  :Tí nhiều thiếu nữ buồn không nói
+target:Ít nhiều thiếu nữ buồn không nói
+filename:val_set/img_hoangdieu_57_PatrickHand-Regular_bg_0.png
+pred  :Tựa cửa nhìn xa nghĩ ngọi gì
+target:Tựa cửa nhìn xa nghĩ ngợi gì.
+filename:val_set/img_hoangdieu_60_AmaticSC-Regular_bg_4.png
+pred  :Yêu sai duyên và mến chẳng nhằm người
+target:Yêu sai duyên và mến chẳng nhằm người.
+filename:val_set/img_hoangdieu_63_AmaticSC-Regular_bg_3.png
+pred  :Đường êm quá ai đi mà nhớ ng
+target:Đường êm quá ai đi mà nhớ ngó!
+filename:val_set/img_hoangdieu_68_Charmonman-Regular_bg_4.png
+pred  :Những tim không mà tưởng tượng tràn đầy
+target:Những tim không mà tưởng tượng tràn đầy;
+filename:val_set/img_hoangdieu_70_Pangolin-Regular_bg_2.png
+pred  :Dấn thân mãi để kiếm trời dưới đất
+target:Dấn thân mãi để kiếm trời dưới đất.
+filename:val_set/img_hoangdieu_74_Charmonman-Regular_bg_4.png
+pred  :Không muốn chữa không muốn lành thú độc
+target:Không muốn chữa không muốn lành thú độc.
+filename:val_set/img_hoangdieu_75_PatrickHand-Regular_bg_3.png
+pred  :A Vì Sao
+target:4 Vì Sao
+filename:val_set/img_hoangdieu_78_AmaticSC-Regular_bg_0.png
+pred  :Khìn tôi cô muốn hỏi Vì sao?"
+target:Nhìn tôi cô muốn hỏi vì sao?
+filename:val_set/img_hoangdieu_81_Charmonman-Regular_bg_1.png
+pred  :- Vì sao giáp mặt buổi đầu tiên
+target:– Vì sao giáp mặt buổi đầu tiên
+filename:val_set/img_hoangdieu_84_Sriracha-Regular_bg_3.png
+pred  :Biết rằng gặp gỡ đã vô duyên? -.
+target:Biết rằng gặp gỡ đã vô duyên? –
+filename:val_set/img_hoangdieu_86_AmaticSC-Regular_bg_3.png
+pred  :Hay băn cầm ca! Tôi chỉ thương
+target:Hay bản cầm ca! Tôi chỉ thương
+filename:val_set/img_hoangdieu_87_Charmonman-Bold_bg_3.png
+pred  :Chỉ lặng chuồi theo dòng xảm xú
+target:Chỉ lặng chuồi theo dòng xảm xúc
+filename:val_set/img_hoangdieu_88_AmaticSC-Regular_bg_3.png
+pred  :Khư thuyền ngư phủ lạc trong sương
+target:Như thuyền ngư phủ lạc trong sương
+filename:val_set/img_hoangdieu_92_Charmonman-Regular_bg_1.png
+pred  :Bằng mây nhè nhẹ gió hiu hiu..
+target:Bằng mây nhè nhẹ gió hiu hiu
+filename:val_set/img_hoangdieu_96_Charmonman-Regular_bg_3.png
+pred  :Tạm lánh hè gay - thế cũng vừa.
+target:Tạm lánh hè gay; – thế cũng vừa.
+filename:val_set/img_hoangdieu_99_AmaticSC-Regular_bg_0.png
+pred  :Tôi khờ khạo lắm ngư ngơ qu
+target:Tôi khờ khạo lắm ngu ngơ quá
+filename:val_set/img_hoangdieu_101_PatrickHand-Regular_bg_0.png
+pred  :5 Vêu.
+target:5 Yêu
+filename:val_set/img_hoangdieu_104_Charmonman-Regular_bg_1.png
+pred  :Cho rất nhiều song nhận chẳng bao nhiêu.
+target:Cho rất nhiều song nhận chẳng bao nhiêu:
+filename:val_set/img_hoangdieu_105_AmaticSC-Regular_bg_2.png
+pred  :Người ta phụ hoặc thờ ơ chẳng biết
+target:Người ta phụ hoặc thờ ơ chẳng biết.
+filename:val_set/img_hoangdieu_109_Charmonman-Regular_bg_2.png
+pred  :- Têu là chết ở trong lòng một í
+target:– Yêu là chết ở trong lòng một ít.
+filename:val_set/img_hoangdieu_111_Pangolin-Regular_bg_3.png
+pred  :Những người si theo dõi dấu chân yêu
+target:Những người si theo dõi dấu chân yêu;
+filename:val_set/img_hoangdieu_112_Charmonman-Regular_bg_4.png
+pred  :Và cảnh đời là sa mạc cô liều.
+target:Và cảnh đời là sa mạc cô liêu.
+filename:val_set/img_hoangdieu_114_Pangolin-Regular_bg_2.png
+pred  :Yêu là chết ở trong lòng một ít
+target:Yêu là chết ở trong lòng một ít.
+filename:val_set/img_hoangdieu_115_Charmonman-Bold_bg_3.png
+pred  :5 Nguyệt Cầm
+target:6 Nguyệt Cầm
+filename:val_set/img_hoangdieu_120_DancingScript-VariableFont_wght_bg_4.png
+pred  :Mây vắng trời trong đêm thuỷ tinh
+target:Mây vắng trời trong đêm thuỷ tinh;
+filename:val_set/img_hoangdieu_125_AmaticSC-Regular_bg_4.png
+pred  :Đàn ghê như nước lạnh trời ơi.
+target:Đàn ghê như nước lạnh trời ơi
+filename:val_set/img_hoangdieu_126_AmaticSC-Regular_bg_4.png
+pred  :Long lanh tiếng sỏi vang vang hận
+target:Long lanh tiếng sỏi vang vang hận:
+filename:val_set/img_hoangdieu_127_DancingScript-VariableFont_wght_bg_2.png
+pred  :Trăng nhớ Tầm Dương nhạc nhớ người..
+target:Trăng nhớ Tầm Dương nhạc nhớ người
+filename:val_set/img_hoangdieu_128_AmaticSC-Regular_bg_4.png
+pred  :Bốn bề ánh nhạc biển pha lẻ
+target:Bốn bề ánh nhạc: biển pha lê.
+filename:val_set/img_hoangdieu_133_Charmonman-Bold_bg_0.png
+pred  :Nghìn buổi sáng bình minh xe chi thắm
+target:Nghìn buổi sáng bình minh xe chỉ thắm
+filename:val_set/img_hoangdieu_146_PatrickHand-Regular_bg_3.png
+pred  :Rọi u minh tỏ rạng ánh hồn sâu:
+target:Rọi u minh tỏ rạng ánh hồn sâu;
+filename:val_set/img_hoangdieu_147_Charmonman-Regular_bg_2.png
+pred  :Đến ru thơ bao kẻ hãy buồn đau
+target:Đến ru thơ bao kẻ hãy buồn đau;
+filename:val_set/img_hoangdieu_148_PatrickHand-Regular_bg_1.png
+pred  :Tìm ấp mộng những hồn sầu rã mực
+target:Tìm ấp mộng những hồn sầu rã mục.
+filename:val_set/img_hoangdieu_149_AmaticSC-Bold_bg_1.png
+pred  :Rồn đông thế tôi sợ gì cô đội!
+target:Hồn đông thế tôi sợ gì cô độc!
+filename:val_set/img_hoangdieu_150_AmaticSC-Regular_bg_2.png
+pred  :Ha với nhau thì ôm ấp cũng nhau.
+target:Ma với nhau thì ôm ấp cùng nhau.
+filename:val_set/img_hoangdieu_152_DancingScript-VariableFont_wght_bg_4.png
+pred  :Niềm tâm sự vần còn như thuở sống.
+target:Niềm tâm sự vẫn còn như thuở sống.
+filename:val_set/img_hoangdieu_154_Charmonman-Bold_bg_3.png
+pred  :Giữa hồn thường thắm thiết một ma tho
+target:Giữa hồn thường thắm thiết một ma thơ
+filename:val_set/img_hoangdieu_155_Pangolin-Regular_bg_3.png
+pred  :Đem nhớ nhung an đi dưới trăng mờ
+target:Đem nhớ nhung an ủi dưới trăng mờ
+filename:val_set/img_hoangdieu_156_Pangolin-Regular_bg_3.png
+pred  :Và trong gió phất phơ đi có bạn..
+target:Và trong gió phất phơ đi có bạn
+filename:val_set/img_hoangdieu_157_AmaticSC-Bold_bg_1.png
+pred  :Kẻ đa tình không cần đủ thịt da:
+target:Kẻ đa tình không cần đủ thịt da;
+filename:val_set/img_hoangdieu_159_AmaticSC-Regular_bg_0.png
+pred  :8 Giục Gi
+target:8 Giục Giã
+filename:val_set/img_hoangdieu_165_AmaticSC-Regular_bg_1.png
+pred  :Khưng đôi ngày tình mới đã thành xưa.
+target:Nhưng đôi ngày tình mới đã thành xưa.
+filename:val_set/img_hoangdieu_168_Charmonman-Bold_bg_1.png
+pred  :Trong gặp gỡ đã có mầm ly biệt
+target:Trong gặp gỡ đã có mầm ly biệt;
+filename:val_set/img_hoangdieu_170_PatrickHand-Regular_bg_2.png
+pred  :Gấp đi em anh rất sợ ngày mai:
+target:Gấp đi em anh rất sợ ngày mai;
+filename:val_set/img_hoangdieu_171_DancingScript-VariableFont_wght_bg_0.png
+pred  :Đời trôi chảy lòng ta không vĩnh viền.
+target:Đời trôi chảy lòng ta không vĩnh viễn.
+filename:val_set/img_hoangdieu_172_PatrickHand-Regular_bg_4.png
+pred  :Vừa xich gối chăn mộng vàng tan biến
+target:Vừa xịch gối chăn mộng vàng tan biến;
+filename:val_set/img_hoangdieu_175_Charmonman-Regular_bg_2.png
+pred  :Quay mặt lạt cả lầu chiều đã vỡ
+target:Quay mặt lại: cả lầu chiều đã vỡ.
+filename:val_set/img_hoangdieu_176_Charmonman-Bold_bg_4.png
+pred  :Vì chút mây đi theo làn vát gió
+target:Vì chút mây đi theo làn vút gió.
+filename:val_set/img_hoangdieu_179_AmaticSC-Regular_bg_1.png
+pred  :Giục hồng nhạn thiên di về cõi Bắc
+target:Giục hồng nhạn thiên di về cõi Bắc.
+filename:val_set/img_hoangdieu_181_AmaticSC-Regular_bg_1.png
+pred  :Mà lòng em sao lại chắc trơ trơ
+target:Mà lòng em sao lại chắc trơ trơ?
+filename:val_set/img_hoangdieu_182_Charmonman-Regular_bg_2.png
+pred  :- Hái một mùa hoa lá thuở măng tơ
+target:– Hái một mùa hoa lá thuở măng tơ
+filename:val_set/img_hoangdieu_185_AmaticSC-Regular_bg_2.png
+pred  :Còn hơn buồn le lói suốt trăm năm
+target:Còn hơn buồn le lói suốt trăm năm.
+filename:val_set/img_hoangdieu_187_DancingScript-VariableFont_wght_bg_0.png
+pred  :Anh hút nhuy của mỗi giờ tình tự.
+target:Anh hút nhuỵ của mỗi giờ tình tự.
+filename:val_set/img_hoangdieu_188_Charmonman-Bold_bg_3.png
+pred  :Mau với chứt Vội vàng lên với chí
+target:Mau với chứ! Vội vàng lên với chứ!
+filename:val_set/img_hoangdieu_189_Sriracha-Regular_bg_3.png
+pred  :Bm em ơi! Tình non sắp già rồi..
+target:Em em ơi! Tình non sắp già rồi
+filename:val_set/img_hoangdieu_190_Sriracha-Regular_bg_2.png
+pred  :9 Lời Rỡ Nữ
+target:9 Lời Kỹ Nữ
+filename:val_set/img_hoangdieu_191_PatrickHand-Regular_bg_1.png
+pred  :Khách ngồi lại cùng em trong chốc nữa
+target:Khách ngồi lại cùng em trong chốc nữa;
+filename:val_set/img_hoangdieu_193_PatrickHand-Regular_bg_1.png
+pred  :Đêm nay rằm: yến tiệc sáng trên trời
+target:Đêm nay rằm: yến tiệc sáng trên trời;
+filename:val_set/img_hoangdieu_199_AmaticSC-Bold_bg_3.png
+pred  :Chớ đạp hồn em
+target:Chớ đạp hồn em!
+filename:val_set/img_hoangdieu_200_PatrickHand-Regular_bg_4.png
+pred  :Trăng về viễn xí
+target:Trăng về viễn xứ
+filename:val_set/img_hoangdieu_201_Sriracha-Regular_bg_1.png
+pred  :Đi khoan thai trên ngự đỉnh trời tròn
+target:Đi khoan thai trên ngự đỉnh trời tròn;
+filename:val_set/img_hoangdieu_202_AmaticSC-Bold_bg_2.png
+pred  :Gió theo trăng từ biển thổi qua non:
+target:Gió theo trăng từ biển thổi qua non;
+filename:val_set/img_hoangdieu_207_DancingScript-VariableFont_wght_bg_0.png
+pred  :Tóc xanh tốt em xin nguyền dệt vông.
+target:Tóc xanh tốt em xin nguyền dệt võng.
+filename:val_set/img_hoangdieu_209_PatrickHand-Regular_bg_2.png
+pred  :Trôi phiêu lưu không vọng bến hay gành:
+target:Trôi phiêu lưu không vọng bến hay gành;
+filename:val_set/img_hoangdieu_211_Sriracha-Regular_bg_2.png
+pred  :Tóc không phải những dây tình vướng viu.
+target:Tóc không phải những dây tình vướng víu.
+filename:val_set/img_hoangdieu_212_Sriracha-Regular_bg_2.png
+pred  :Bm sợ lắm. Giá băng tràn mọi nẻo
+target:Em sợ lắm. Giá băng tràn mọi nẻo
+filename:val_set/img_hoangdieu_213_Sriracha-Regular_bg_1.png
+pred  :Trời đầy trăng lạnh lẽo suốt xương da
+target:Trời đầy trăng lạnh lẽo suốt xương da.
+filename:val_set/img_hoangdieu_214_Charmonman-Bold_bg_1.png
+pred  :Người giai nhân bến đợi dưới cây già
+target:Người giai nhân: bến đợi dưới cây già;
+filename:val_set/img_hoangdieu_215_AmaticSC-Bold_bg_1.png
+pred  :Tinh du khách: thuyền qua không buộc chặt.
+target:Tình du khách: thuyền qua không buộc chặt.
+filename:val_set/img_hoangdieu_217_Charmonman-Bold_bg_1.png
+pred  :Cuộc yêu đương gay gắt vì làng chơi
+target:Cuộc yêu đương gay gắt vì làng chơi.
+filename:val_set/img_hoangdieu_220_DancingScript-VariableFont_wght_bg_0.png
+pred  :Xao xác tiếng gà. Trăng ngà lạnh buốt
+target:Xao xác tiếng gà. Trăng ngà lạnh buốt.
+filename:val_set/img_hoangdieu_222_Charmonman-Regular_bg_3.png
+pred  :Du khách đi
+target:Du khách đi.
+filename:val_set/img_hoangdieu_223_AmaticSC-Regular_bg_4.png
+pred  :- Du khách đã đi rồi
+target:– Du khách đã đi rồi.
+filename:val_set/img_hoangdieu_224_DancingScript-VariableFont_wght_bg_2.png
+pred  :10. Tình Thứ Nhất
+target:10 Tình Thứ Nhất
+filename:val_set/img_hoangdieu_228_DancingScript-VariableFont_wght_bg_2.png
+pred  :Tình đã cho không lấy lại bao giờ:
+target:Tình đã cho không lấy lại bao giờ.
+filename:val_set/img_hoangdieu_229_Charmonman-Regular_bg_1.png
+pred  :Thư thì mỏng như suối đời mộng ảo
+target:Thư thì mỏng như suối đời mộng ảo;
+filename:val_set/img_hoangdieu_230_Charmonman-Bold_bg_0.png
+pred  :Tình thì buồn như tất cả chia ly
+target:Tình thì buồn như tất cả chia ly.
+filename:val_set/img_hoangdieu_231_AmaticSC-Bold_bg_2.png
+pred  :Giấy phong kỹ mang thầm trong túi áo:
+target:Giấy phong kỹ mang thầm trong túi áo;
+filename:val_set/img_hoangdieu_236_AmaticSC-Bold_bg_2.png
+pred  :- Mây đầy trời hôm ấy phủ sơn khê.
+target:– Mây đầy trời hôm ấy phủ sơn khê.
+filename:val_set/img_hoangdieu_244_Charmonman-Bold_bg_1.png
+pred  :Đôi tay yêu không được nắm bao giờ
+target:Đôi tay yêu không được nắm bao giờ.
+filename:val_set/img_hoangdieu_249_Charmonman-Bold_bg_1.png
+pred  :Hoa thứ nhất có một mùi trinh bạch
+target:Hoa thứ nhất có một mùi trinh bạch;
+filename:val_set/img_hoangdieu_250_AmaticSC-Regular_bg_4.png
+pred  :Xuân đầu mùa trong sạch vẻ ban sơ
+target:Xuân đầu mùa trong sạch vẻ ban sơ.
+filename:val_set/img_hoangdieu_251_AmaticSC-Bold_bg_4.png
+pred  :Hương mới thấm bền ghi như thiết thạch:
+target:Hương mới thấm bền ghi như thiết thạch;
+filename:val_set/img_hoangdieu_252_Charmonman-Regular_bg_4.png
+pred  :Sương nguyên tiêu trời đất cũng chung mờ
+target:Sương nguyên tiêu trời đất cũng chung mờ.
+filename:val_set/img_hoangdieu_254_Charmonman-Bold_bg_3.png
+pred  :Snh mai soi cũng pha nhạt màu ôi
+target:Ánh mai soi cũng pha nhạt màu ôi
+filename:val_set/img_hoangdieu_258_AmaticSC-Regular_bg_0.png
+pred  :Võn nà sương ngọc quanh thềm đậu
+target:Nõn nà sương ngọc quanh thềm đậu;
+filename:val_set/img_hoangdieu_260_AmaticSC-Bold_bg_1.png
+pred  :Hư vô bóng khói trên đầu hạnh:
+target:Hư vô bóng khói trên đầu hạnh;
+filename:val_set/img_hoangdieu_267_Charmonman-Regular_bg_3.png
+pred  :Hậy hây thục nữ mắt như thuyền
+target:Hây hây thục nữ mắt như thuyền.
+filename:val_set/img_hoangdieu_269_Pangolin-Regular_bg_3.png
+pred  :Sắc mạnh huy hoàng áo trạng nguyên .
+target:Sắc mạnh huy hoàng áo trạng nguyên.
+filename:val_set/img_hoangdieu_272_Pangolin-Regular_bg_2.png
+pred  :Thiếu nữ nhìn sương chói mặt trờ
+target:Thiếu nữ nhìn sương chói mặt trời
+filename:val_set/img_hoangdieu_274_AmaticSC-Bold_bg_3.png
+pred  :Cánh hồng kết những nụ cười tươ
+target:Cánh hồng kết những nụ cười tươi
+filename:val_set/img_hoangdieu_275_AmaticSC-Bold_bg_4.png
+pred  :Áénh sáng ôm trùm những ngọn cao
+target:Ánh sáng ôm trùm những ngọn cao
+filename:val_set/img_hoangdieu_277_PatrickHand-Regular_bg_0.png
+pred  :Gió thơm phơ phất bay vô
+target:Gió thơm phơ phất bay vô ý
+filename:val_set/img_hoangdieu_279_AmaticSC-Bold_bg_2.png
+pred  :Tóc liều buông xanh quá mỹ miều
+target:Tóc liễu buông xanh quá mỹ miều
+filename:val_set/img_hoangdieu_280_Charmonman-Regular_bg_0.png
+pred  :Bện màu hoa mới thắm như kêu
+target:Bên màu hoa mới thắm như kêu
+filename:val_set/img_hoangdieu_281_Charmonman-Regular_bg_3.png
+pred  :Nỗi gì âu yếm qua không khi
+target:Nỗi gì âu yếm qua không khí
+filename:val_set/img_hoangdieu_282_AmaticSC-Regular_bg_0.png
+pred  :Khư thoảng đưa mùi hương mến yêu
+target:Như thoảng đưa mùi hương mến yêu
+filename:val_set/img_hoangdieu_283_DancingScript-VariableFont_wght_bg_1.png
+pred  :Hày lượt đầu tiên thiếu nữ nghe
+target:Này lượt đầu tiên thiếu nữ nghe
+filename:val_set/img_hoangdieu_284_Charmonman-Regular_bg_1.png
+pred  :Nhạc thầm lên tiếng hát say mè
+target:Nhạc thầm lên tiếng hát say mê
+filename:val_set/img_hoangdieu_286_PatrickHand-Regular_bg_2.png
+pred  :Xui khiến lòng ai thấy nặng nề..
+target:Xui khiến lòng ai thấy nặng nề
+filename:val_set/img_hoangdieu_288_Charmonman-Bold_bg_3.png
+pred  :Chưa từng hẹn đến - giữa xuân tươi
+target:Chưa từng hẹn đến – giữa xuân tươi
+filename:val_set/img_hoangdieu_289_Charmonman-Regular_bg_0.png
+pred  :Cùng chàng trai trẻ xa xôi ấ
+target:Cùng chàng trai trẻ xa xôi ấy
+filename:val_set/img_hoangdieu_290_DancingScript-VariableFont_wght_bg_1.png
+pred  :Thiếu nữ làm duyên đứng mửm cười
+target:Thiếu nữ làm duyên đứng mỉm cười
+filename:val_set/img_hoangdieu_294_AmaticSC-Regular_bg_3.png
+pred  :Khững cô hây hẩy còn đôi tám
+target:Những cô hây hẩy còn đôi tám
+filename:val_set/img_hoangdieu_296_DancingScript-VariableFont_wght_bg_1.png
+pred  :Ta đã tìm thăm những nấm mô
+target:Ta đã tìm thăm những nấm mồ
+filename:val_set/img_hoangdieu_297_Charmonman-Bold_bg_2.png
+pred  :Vô tình chôn giữa trái tim thơ
+target:Vô tình chôn giữa trái tim thơ;
+filename:val_set/img_hoangdieu_299_Charmonman-Bold_bg_4.png
+pred  :Của những tình thương bị hững hờ
+target:Của những tình thương bị hững hờ.
+filename:val_set/img_hoangdieu_305_PatrickHand-Regular_bg_2.png
+pred  :Ai tìm ta hộ dáng thu quai
+target:Ai tìm ta hộ dáng thu qua?
+filename:val_set/img_hoangdieu_307_PatrickHand-Regular_bg_0.png
+pred  :- Ôi! Phượng bao giờ lại nở hoa
+target:– Ôi! Phượng bao giờ lại nở hoa!
+filename:val_set/img_hoangdieu_308_PatrickHand-Regular_bg_0.png
+pred  :10 Xa Cách
+target:14 Xa Cách
+filename:val_set/img_hoangdieu_309_DancingScript-VariableFont_wght_bg_1.png
+pred  :Tặng Đồ Đức Thu
+target:Tặng Đỗ Đức Thu
+filename:val_set/img_hoangdieu_312_PatrickHand-Regular_bg_1.png
+pred  :Em xích gần thêm một chút anh hờn.
+target:Em xích gần thêm một chút: anh hờn.
+filename:val_set/img_hoangdieu_313_PatrickHand-Regular_bg_0.png
+pred  :Em ngoan ngoăn xích gần thêm chút nữa.
+target:Em ngoan ngoãn xích gần thêm chút nữa.
+filename:val_set/img_hoangdieu_314_Charmonman-Regular_bg_0.png
+pred  :Anh sắp giận Em mỉm cười vội vẽ
+target:Anh sắp giận. Em mỉm cười vội vã
+filename:val_set/img_hoangdieu_315_AmaticSC-Regular_bg_4.png
+pred  :Đến kề anh và mơn trớn: Xem đây!
+target:Đến kề anh và mơn trớn: em đây! .
+filename:val_set/img_hoangdieu_316_Charmonman-Regular_bg_0.png
+pred  :Anh vui liền nhưng bỗng lại buồn ngay
+target:Anh vui liền nhưng bỗng lại buồn ngay.
+filename:val_set/img_hoangdieu_317_AmaticSC-Bold_bg_1.png
+pred  :Vì anh nghĩ thế vẫn còn xa lắm.
+target:Vì anh nghĩ: thế vẫn còn xa lắm.
+filename:val_set/img_hoangdieu_322_PatrickHand-Regular_bg_2.png
+pred  :Dầu tin tưởng: chung một đời một mộng
+target:Dầu tin tưởng: chung một đời một mộng.
+filename:val_set/img_hoangdieu_325_AmaticSC-Regular_bg_0.png
+pred  :Của hai vũ trụ chứa đầy bí mật
+target:Của hai vũ trụ chứa đầy bí mật.
+filename:val_set/img_hoangdieu_331_DancingScript-VariableFont_wght_bg_2.png
+pred  :Anh muốn vào dò xét giấc em mơ
+target:Anh muốn vào dò xét giấc em mơ.
+filename:val_set/img_hoangdieu_333_PatrickHand-Regular_bg_0.png
+pred  :Cũng như em giấu những điều quá thực.
+target:Cũng như em giấu những điều quá thực
+filename:val_set/img_hoangdieu_334_Pangolin-Regular_bg_1.png
+pred  :Hãy sát đôi đầu! Hãy kề đôi ngực
+target:Hãy sát đôi đầu! Hãy kề đôi ngực!
+filename:val_set/img_hoangdieu_335_AmaticSC-Regular_bg_3.png
+pred  :Hãy trộn nhau đôi mái tóc ngắn dài.
+target:Hãy trộn nhau đôi mái tóc ngắn dài!
+filename:val_set/img_hoangdieu_336_AmaticSC-Regular_bg_2.png
+pred  :Những cánh tay! Hãy quấn riết đôi vai
+target:Những cánh tay! Hãy quấn riết đôi vai!
+filename:val_set/img_hoangdieu_338_AmaticSC-Bold_bg_4.png
+pred  :Hãy khăng khít những cặp môi gắn chặp
+target:Hãy khăng khít những cặp môi gắn chặt
+filename:val_set/img_hoangdieu_339_AmaticSC-Regular_bg_4.png
+pred  :Cho anh nghe đôi hàm ngọc của răng.
+target:Cho anh nghe đôi hàm ngọc của răng;
+filename:val_set/img_hoangdieu_341_Sriracha-Regular_bg_3.png
+pred  :"CGần thêm nữa! Thế vẩn còn xa lắm
+target:Gần thêm nữa! Thế vẫn còn xa lắm! .
+filename:val_set/img_hoangdieu_347_Charmonman-Regular_bg_0.png
+pred  :Ô0! Em mến yêu! Em vẫn là người anh yệu mến nhất
+target:Ôi! Em mến yêu! Em vẫn là người anh yêu mến nhất
+filename:val_set/img_hoangdieu_348_Charmonman-Bold_bg_2.png
+pred  :Cho đến bây giờ ruột anh vẫn thất
+target:Cho đến bây giờ ruột anh vẫn thắt
+filename:val_set/img_hoangdieu_349_Sriracha-Regular_bg_2.png
+pred  :Tim anh vẩn đập như vấp thời gian
+target:Tim anh vẫn đập như vấp thời gian
+filename:val_set/img_hoangdieu_351_Charmonman-Regular_bg_0.png
+pred  :Nhớ đoạn đời hai ta rạng rõ
+target:Nhớ đoạn đời hai ta rạng rỡ
+filename:val_set/img_hoangdieu_352_PatrickHand-Regular_bg_2.png
+pred  :Nhó trời đất cho anh mỏ
+target:Nhớ trời đất cho anh mở
+filename:val_set/img_hoangdieu_355_AmaticSC-Bold_bg_1.png
+pred  :1i Xa em anh rơi vào vực không cùng
+target:Ôi! Xa em anh rơi vào vực không cùng
+filename:val_set/img_hoangdieu_358_Pangolin-Regular_bg_3.png
+pred  :Ta hai người xa lạ -e phải đâu ta!
+target:Ta: hai người xa lạ – phải đâu ta!
+filename:val_set/img_hoangdieu_360_Sriracha-Regular_bg_1.png
+pred  :Đêm nào anh cũng đi quanh em mà khó.
+target:Đêm nào anh cũng đi quanh em mà khóc
+filename:val_set/img_hoangdieu_364_PatrickHand-Regular_bg_1.png
+pred  :Tại em cố chấp;
+target:Tại em cố chấp
+filename:val_set/img_hoangdieu_368_Charmonman-Bold_bg_3.png
+pred  :Em đã giết anh rồi em vứt xác anh đn.
+target:Em đã giết anh rồi em vứt xác anh đâu.
+filename:val_set/img_tuyen_2_AmaticSC-Regular_bg_2.png
+pred  :Huyền Cầm đong đưa tiếng tơ lòng khe khề
+target:Huyền Cầm đong đưa tiếng tơ lòng khe khẽ
+filename:val_set/img_tuyen_11_PatrickHand-Regular_bg_4.png
+pred  :Vẫn mịt mù như ở cối hư vô.
+target:Vẫn mịt mù như ở cõi hư vô.
+filename:val_set/img_tuyen_12_AmaticSC-Regular_bg_3.png
+pred  :Lặng lẽ chiều.
+target:Lặng lẽ chiều
+filename:val_set/img_tuyen_13_AmaticSC-Bold_bg_4.png
+pred  :Từng con sóng nhẹ xỡ
+target:Từng con sóng nhẹ xô
+filename:val_set/img_tuyen_14_Sriracha-Regular_bg_3.png
+pred  :Cho bờ cát thầm thì như vẫy gọi..
+target:Cho bờ cát thầm thì như vẫy gọi...
+filename:val_set/img_tuyen_16_Charmonman-Regular_bg_1.png
+pred  :Mây la đà như khó
+target:Mây la đà như khói
+filename:val_set/img_tuyen_17_Sriracha-Regular_bg_1.png
+pred  :Bảng lảng chiều.
+target:Bảng lảng chiều...
+filename:val_set/img_tuyen_20_Sriracha-Regular_bg_0.png
+pred  :Với bao nỗi dại khôn
+target:Với bao nỗi dại_khôn
+filename:val_set/img_tuyen_22_Charmonman-Regular_bg_4.png
+pred  :Ngày qua đi.
+target:Ngày qua đi...
+filename:val_set/img_tuyen_26_DancingScript-VariableFont_wght_bg_4.png
+pred  :Là chiếc bóng. bên đời - lặng lẽ.
+target:Là chiếc bóng...bên đời - lặng lẽ.
+filename:val_set/img_tuyen_32_Charmonman-Regular_bg_1.png
+pred  :Mưa Ngâu tí tách đều trên phõ
+target:Mưa Ngâu tí tách đều trên phố
+filename:val_set/img_tuyen_33_AmaticSC-Bold_bg_0.png
+pred  :Rớt xuống đời ta những ngâm ngù
+target:Rớt xuống đời ta những ngâm ngùi
+filename:val_set/img_tuyen_36_Charmonman-Regular_bg_0.png
+pred  :Thì thôi gói lại tình Ngưa.. Nữ
+target:Thì thôi gói lại tình Ngưu_Nữ
+filename:val_set/img_tuyen_38_AmaticSC-Bold_bg_4.png
+pred  :Tháng bảy chưa về sao buốt giáa
+target:Tháng bảy chưa về sao buốt giá?
+filename:val_set/img_tuyen_39_Sriracha-Regular_bg_3.png
+pred  :Mưa rớt bên đời.mưa - mưa Ngâu.
+target:Mưa rớt bên đời mưa - mưa Ngâu!
+filename:val_set/img_tuyen_40_AmaticSC-Bold_bg_1.png
+pred  :Trà Vinh đợi người về thăm phổ nhỏ
+target:Trà Vinh đợi người về thăm phố nhỏ
+filename:val_set/img_tuyen_49_Charmonman-Regular_bg_1.png
+pred  :Trăm tuổi cầy. tuổi phố - mãi yên bình
+target:Trăm tuổi cây_tuổi phố - mãi yên bình
+filename:val_set/img_tuyen_51_AmaticSC-Regular_bg_1.png
+pred  :Và vầng hồng soi sáng những bình minh
+target:Và vầng hồng soi sáng những bình minh.
+filename:val_set/img_tuyen_55_AmaticSC-Bold_bg_3.png
+pred  :Ngày rất mới - đang chờ.
+target:Ngày rất mới - đang chờ...
+filename:val_set/img_tuyen_57_AmaticSC-Bold_bg_1.png
+pred  :Sông Tiền mang nặng phù sẽ
+target:Sông Tiền mang nặng phù sa
+filename:val_set/img_tuyen_58_AmaticSC-Regular_bg_4.png
+pred  :Trôi theo dòng nước chảy qua nơi ngườ
+target:Trôi theo dòng nước chảy qua nơi người
+filename:val_set/img_tuyen_65_Charmonman-Bold_bg_2.png
+pred  :Tám tình bỏ hết vào thơ
+target:Tâm tình bỏ hết vào thơ
+filename:val_set/img_tuyen_66_Charmonman-Bold_bg_2.png
+pred  :Trao ai những giấc mộng hờ đa đoa.
+target:Trao ai những giấc mộng hờ đa đoan
+filename:val_set/img_tuyen_73_PatrickHand-Regular_bg_2.png
+pred  :Mẹ tôi tất tả quảy quang gánh vẽ
+target:Mẹ tôi tất tả quảy quang gánh về
+filename:val_set/img_tuyen_74_AmaticSC-Regular_bg_2.png
+pred  :Cha còn quanh quẩn ven đè
+target:Cha còn quanh quẩn ven đê
+filename:val_set/img_tuyen_75_AmaticSC-Regular_bg_0.png
+pred  :Đồng khô ruộng cháy bộn bề nỗi lọ
+target:Đồng khô ruộng cháy bộn bề nỗi lo
+filename:val_set/img_tuyen_77_AmaticSC-Bold_bg_3.png
+pred  :Gió đi đâu chẳng lò dò về qua!
+target:Gió đi đâu chẳng lò dò về qua?
+filename:val_set/img_tuyen_78_AmaticSC-Regular_bg_1.png
+pred  :Nắng oi nồng - nắng cháy de
+target:Nắng oi nồng - nắng cháy da
+filename:val_set/img_tuyen_79_DancingScript-VariableFont_wght_bg_2.png
+pred  :Mồ hôi Mẹmồ hôi Cha - chảy ròng..
+target:Mồ hôi Mẹ_mồ hôi Cha - chảy ròng...
+filename:val_set/img_tuyen_82_Charmonman-Regular_bg_4.png
+pred  :Nắng rơi.. nắng rớt vào tho
+target:Nắng rơi_nắng rớt vào thơ
+filename:val_set/img_tuyen_83_PatrickHand-Regular_bg_3.png
+pred  :Chói chang đốt cả giấc mơ ngày nào
+target:Chói chang đốt cả giấc mơ ngày nào.
+filename:val_set/img_tuyen_85_Charmonman-Bold_bg_2.png
+pred  :Hỏi cơn gió giọt mưa rào. ở đâu!
+target:Hỏi: cơn gió giọt mưa rào..ở đâu?
+filename:val_set/img_tuyen_92_AmaticSC-Bold_bg_3.png
+pred  :Tầu. Cau hòa quyện hương vô
+target:Trầu_Cau hòa quyện hương vôi
+filename:val_set/img_tuyen_93_AmaticSC-Regular_bg_4.png
+pred  :Để cho người ở xa xôi chợt gần
+target:Để cho người ở xa xôi chợt gần.
+filename:val_set/img_tuyen_94_AmaticSC-Regular_bg_1.png
+pred  :Hương thời gian - thoảng tiếng ngân.
+target:Hương thời gian - thoảng tiếng ngân...
+filename:val_set/img_tuyen_95_Sriracha-Regular_bg_2.png
+pred  :Lm mầm xanh để kết vần cho thơ.
+target:Ươm mầm xanh để kết vần cho thơ.
+filename:val_set/img_tuyen_96_AmaticSC-Regular_bg_4.png
+pred  :Tổng số bài gửi 496
+target:Tổng số bài gửi : 496
+filename:val_set/img_tuyen_97_Pangolin-Regular_bg_3.png
+pred  :LCoation : Trà Vinh
+target:Location : Trà Vinh
+filename:val_set/img_tuyen_98_Charmonman-Bold_bg_4.png
+pred  :Rugiehtraánn dac - 1101201)
+target:Registration date : 11 02 2012
+filename:val_set/img_tuyen_99_AmaticSC-Regular_bg_3.png
+pred  :Thơ Tú. Yên - Đange 19 Emt
+target:Thơ Tú_Yên - Page 19 Empty
+filename:val_set/img_tuyen_100_Pangolin-Regular_bg_3.png
+pred  :Bài gửTiêu đề Hương Tri
+target:Bài gửiTiêu đề: Hương Tràm Thơ Tú_Yên - Page 19 I_icon13Yesterday at 15:07
+filename:val_set/img_tuyen_101_PatrickHand-Regular_bg_2.png
+pred  :Ngan ngát hương Tràm hòa chan trong gie
+target:Ngan ngát hương Tràm hòa chan trong gió
+filename:val_set/img_tuyen_102_AmaticSC-Regular_bg_3.png
+pred  :Rừng quê em ngàn thưở cứ xanh nguyệp
+target:Rừng quê em ngàn thuở cứ xanh nguyên
+filename:val_set/img_tuyen_103_Charmonman-Regular_bg_3.png
+pred  :Có tiếng liu lo chim chuyền cành ban sớn
+target:Có tiếng líu lo chim chuyền cành ban sớm
+filename:val_set/img_tuyen_104_Charmonman-Bold_bg_1.png
+pred  :Nước nặng phù sa cho sông mãi ngoan (àn.
+target:Nước nặng phù sa cho sông mãi ngoan hiền.
+filename:val_set/img_tuyen_108_AmaticSC-Bold_bg_0.png
+pred  :Ngăn lỡ về đào xới những dòng sông.
+target:Ngăn lũ về đào xới những dòng sông.
+filename:val_set/img_tuyen_111_Charmonman-Regular_bg_1.png
+pred  :Hương Tràm thơm cho em nhiều hoài vọng.
+target:Hương Tràm thơm cho em nhiều hoài vọng...
+filename:val_set/img_tuyen_115_Pangolin-Regular_bg_3.png
+pred  :Thăm Miền Tây vườn cây sai triu quả
+target:Thăm Miền Tây vườn cây sai trĩu quả
+filename:val_set/img_tuyen_117_AmaticSC-Regular_bg_3.png
+pred  :Thì vẫn thế giấc mộng lành muôn thuờ
+target:Thì vẫn thế - giấc mộng lành muôn thuở
+filename:val_set/img_tuyen_119_Sriracha-Regular_bg_0.png
+pred  :Bm vần đợi.có một ngày nắng ấm
+target:Em vẫn đợi có một ngày nắng ấm
+filename:val_set/img_tuyen_120_Pangolin-Regular_bg_1.png
+pred  :Bớc mơ nào vời vợi lại về thăm.
+target:Ước mơ nào vời vợi lại về thăm.
+filename:val_set/img_tuyen_122_AmaticSC-Regular_bg_1.png
+pred  :Bãi bồi cho những tấm lòng trổ hoa
+target:Bãi bồi cho những tấm lòng - trổ hoa.
+ocr_correct: 278/492/0.5650406504065041
