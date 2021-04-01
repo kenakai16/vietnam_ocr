@@ -9,3 +9,14 @@ python train_pytorch_ctc.py
 
 ## Evalution:
 python crnn_recognizer.py
+
+
+## Some example:
+
+<p align="left">
+
+<img src='debug_files/00006.jpg'>
+
+</p>
+
+Prediction: """Cực trăm nghìn nỗi dặn ba bốn lần"""
