@@ -19,4 +19,22 @@ python crnn_recognizer.py
 
 </p>
 
-Prediction: """Cực trăm nghìn nỗi dặn ba bốn lần"""
+Prediction: Cực trăm nghìn nỗi dặn ba bốn lần
+
+
+<p align="left">
+
+<img src='debug_files/00005.jpg'>
+
+</p>
+
+Prediction: Ta đây nào phải các thầy
+
+
+<p align="left">
+
+<img src='debug_files/00004.jpg'>
+
+</p>
+
+Prediction: Buồng trong vội dạo sen vàng bước ra.
